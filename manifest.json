@@ -1,0 +1,16 @@
+{
+  "name": "FC 26 Ultimate Squad",
+  "short_name": "FC 26",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#1b4332",
+  "theme_color": "#0c3020",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/53/53283.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
